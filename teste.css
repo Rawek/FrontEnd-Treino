@@ -1,0 +1,125 @@
+.margem{background-color: rgba(255, 255, 255, 0.692);float: right; min-height: 200px; padding: 30px; border-radius: 15px; margin: 10px;     margin-top: 50px;}
+label{color: #004f9e; font-family: 'Segoe UI'; font-weight: bold; min-width: 100px; min-height: 10px}
+button{background-color: red; 
+    margin-left: 350px;
+    font-size: large;
+    color: white;
+    height: 58px;
+    width: 400px;
+    position: flex}
+ 
+.btn-danger {
+        color: #fff;
+        background-color: #dc3545;
+        border-color: #dc3545;
+        margin-left: 50px;   } 
+#imagem{
+    padding: 50px;
+    margin-left:50px
+}
+
+img{
+    margin: -61px;
+}
+.alerta1{
+    background-color: #793AED;
+    width: 400px;
+    position: absolute;
+    margin-top: 250px;
+    }
+.alerta2{
+    background-color: #004F9E;
+    width: 550px;
+    position: absolute;
+    margin-top: 301px;    margin-left: 20px;
+    text-align: center
+
+}
+
+.alerta3{
+    background-color: #793AED;
+    width: 400px;
+    position: absolute;
+    margin-left: -6px;
+    margin-top: 353px;
+    text-align: center
+}
+
+.formulario{
+    padding: 50px;
+    width: 500px;
+}
+
+input{
+    width: 400px;
+    margin-left: 120px;}
+
+label{
+    margin-left: 20px
+}
+
+.jack1{
+    position: absolute;
+    margin: 496px;
+    margin-left: 119px;
+}
+
+
+h2{
+    color: white;
+    margin-right: 5px;
+    font-size: 90%;
+}
+
+
+.entrar{
+    background-color: #f87f27;
+    border-radius: 15px;
+    border: orange;
+    width: 5%;
+    height: auto;
+    border: orange;
+    border-radius: 15px;
+    margin-right: 5%;
+}
+/* ids */
+.container{    margin-top: -8px;
+    width: 103%;
+    height: 100px;
+    margin-left: -8px;
+    min-width: 1290px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.836), rgba(0, 0, 0, 0.096))}
+
+#menu{float: right;
+    margin-top: 35px;
+    opacity}
+
+
+#menu a{
+    text-decoration: none; 
+    color:gray; 
+    padding: 15px;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: none;
+    font-stretch: normal;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+label{color: #004f9e; font-family: 'Segoe UI'; font-weight: bold; min-width: 100px; min-height: 10px; font-weight: bold}
+
+
+a:hover{color: #f87f27;
+background-color:#f87f27;
+border-radius: 15px;
+opacity: none; }
+
+body{background-image: url(Imagens/backgroundSVG.svg); no-repeat; center; top; fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+

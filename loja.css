@@ -1,0 +1,98 @@
+.container{    margin-top: -8px;
+    width: 103%;
+    height: 100px;
+    margin-left: -8px;
+    min-width: 1290px;
+    background-image: url(Imagens/backgroundSVG.svg); no-repeat; center; top; fixed;
+ }
+
+    #menu{float: right;
+        margin-top: 35px;
+        opacity}
+    
+    
+    #menu a{
+        text-decoration: none; 
+        color:gray; 
+        padding: 15px;
+        margin: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        opacity: none;
+        font-stretch: normal;
+        font-size: 20px;
+        font-weight: bold;}
+        
+    a:hover{color: #f87f27;
+            background-color:#f87f27;
+            border-radius: 15px;
+            opacity: none; }    
+    .sair{
+                background-color: #f87f27;
+                border-radius: 15px;
+                border: orange;
+                width: 5%;
+                height: auto;
+                border: orange;
+                border-radius: 15px;
+                margin-right: 5%;
+            
+            }
+    .logo{
+        position: absolute
+    }
+
+    .produtos{
+        font-weight: 300;
+        margin-top:50px;
+        position: absolute;
+        margin-left: 350px;
+    }
+
+    body{
+        background-color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        flex-direction: column;}
+
+    .barra{
+        background-color: white;
+    margin-left: -0.5%;
+    color: rgb(105, 105, 105);
+    }
+    .carrinho{
+        position: absolute;
+        margin-left: 650px;
+        margin-top: 50px
+    }
+    .nome{
+        font-weight: 400px
+    }
+    .barra hr{
+        width: 79%;
+        background-color: #EF8645;
+        margin-right: 54%;
+        margin-top: -2%;
+        border: #EF8645;}
+        
+    .carro{
+        position: absolute;
+        width: 50px;
+        margin-top: 90px;
+        margin-left: 550px
+
+    }
+    
+    hr{
+    background-color: #EF8645;
+    margin-right: 54%;
+    margin-top: 50px;
+    position: relative;    border: #EF8645
+
+    }
+    .p1{position: absolute;
+        margin-top: 150px;
+        background-color: gray
+    }
+      
+    
+    
